@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668269620 source:c:\users\user\desktop\assignment 2\sum of natural numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668261187 source:c:\users\user\desktop\assignment 1\c program to find ascii value of a character\main.c
+	<stdio.h>
+	<stdlib.h>
+

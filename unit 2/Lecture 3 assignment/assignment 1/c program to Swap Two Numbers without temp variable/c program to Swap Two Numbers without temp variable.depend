@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668262254 source:c:\users\user\desktop\assignment 1\c program to swap two numbers without temp variable\main.c
+	<stdio.h>
+	<stdlib.h>
+

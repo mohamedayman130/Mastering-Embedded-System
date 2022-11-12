@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668269415 source:c:\users\user\desktop\assignment 2\c program to check whether character is alphabet or not\main.c
+	<stdio.h>
+	<stdlib.h>
+

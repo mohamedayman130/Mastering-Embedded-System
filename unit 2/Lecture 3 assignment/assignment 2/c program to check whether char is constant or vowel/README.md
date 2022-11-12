@@ -1,0 +1,1 @@
+c program to check whether char is constant or vowel

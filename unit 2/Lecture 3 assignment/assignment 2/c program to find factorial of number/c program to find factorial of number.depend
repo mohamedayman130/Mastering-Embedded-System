@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668270480 source:c:\users\user\desktop\assignment 2\c program to find factorial of number\main.c
+	<stdio.h>
+	<stdlib.h>
+
