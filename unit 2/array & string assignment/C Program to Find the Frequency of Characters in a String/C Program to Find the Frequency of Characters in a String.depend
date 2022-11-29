@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669659129 source:c:\users\user\desktop\assignment2\c program to find the frequency of characters in a string\main.c
+	<stdio.h>
+	<stdlib.h>
+

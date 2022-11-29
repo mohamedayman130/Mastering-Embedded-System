@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669655201 source:c:\users\user\desktop\assignment2\c program to insert an element in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+

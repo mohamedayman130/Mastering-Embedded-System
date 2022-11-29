@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669652890 source:c:\users\user\desktop\assignment2\ c program to find transpose of a matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
