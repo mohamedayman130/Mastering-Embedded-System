@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670348202 source:c:\users\user\desktop\c program to reverse a sentense with recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
