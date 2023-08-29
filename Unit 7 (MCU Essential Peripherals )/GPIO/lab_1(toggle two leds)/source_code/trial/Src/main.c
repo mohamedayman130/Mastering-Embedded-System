@@ -24,19 +24,20 @@
 
 void CLOCK_INIT()
 {
-	RCC_APB2ENR |=3<<2;
+	RCC_APB2ENR |=3<<2;//open clock for porta and portb
 }
 
 void GPIO_INIT()
 {
+	//clear all Reset values
 	GPIOA_CRH=0;
 	GPIOA_CRL=0;
 	GPIOB_CRH=0;
 	GPIOB_CRL=0;
-
+	//set pin1 and pin13 as an input in porta
 	GPIOA_CRL|=4<<4;
 	GPIOA_CRH|=4<<20;
-
+    //set pin1 and pin13 as an output in portb
 	GPIOB_CRH|=1<<20;
 	GPIOB_CRL|=1<<4;
 }
