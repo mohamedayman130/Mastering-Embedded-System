@@ -1,4 +1,4 @@
-#TOGGLE TWO LEDS WITH AT ATMEGA32::
+# TOGGLE TWO LEDS WITH ON ATMEGA32::
 
 
 MULTI-PRESS BUTTON -->>> toggle led while I'm still push the button.
