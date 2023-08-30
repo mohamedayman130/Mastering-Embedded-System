@@ -2,5 +2,3 @@
 
 
 
-https://github.com/mohamedayman130/Mastering-Embedded-System/assets/117905345/b063e0b6-f4c8-4957-b6f7-c79f8877f90f
-
