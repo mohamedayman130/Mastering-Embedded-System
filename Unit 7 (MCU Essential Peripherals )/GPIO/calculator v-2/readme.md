@@ -2,14 +2,19 @@
 
 
 # -->>last version features::
+
 1-add two integers.
+
 2-subtract two integers.
+
 3-multiply two integers.
+
 4-divide two integers.
 
 
 # -->>this vesion features:
 1-you can continue your operation with the second number and same operator by pressing '='.
+
 2-When the result is displayed on the LCD, you may press any operator to do another operation with a different operator and to continue with the previous result.
 
 
