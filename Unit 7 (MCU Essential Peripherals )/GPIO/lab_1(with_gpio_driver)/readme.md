@@ -1,4 +1,4 @@
-# lab_1 (toggle two leds) on stm32f103c6(mcu) with gpio driver.
+# lab_1 (toggle two leds) on stm32f103c6(mcu)(blue pill board) with gpio driver.
 
 
 
