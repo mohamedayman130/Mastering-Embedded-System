@@ -1,1 +1,1 @@
-# gpio driver for stm32f103x6 
+# gpio and exti drivers for stm32f103x6 
