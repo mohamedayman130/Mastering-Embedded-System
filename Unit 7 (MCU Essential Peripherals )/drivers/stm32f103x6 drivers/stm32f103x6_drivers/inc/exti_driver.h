@@ -59,7 +59,7 @@ typedef struct
 #define exti14 		14
 #define exti15 		15
 
-//exti_Define
+//@ref exti_Define
 #define EXTI0A0  (exti_gpio_mapping){exti0,GPIOA,GPIO_PIN_0,exti0_irq};
 #define EXTI0B0  (exti_gpio_mapping){exti0,GPIOB,GPIO_PIN_0,exti0_irq};
 #define EXTI0C0  (exti_gpio_mapping){exti0,GPIOC,GPIO_PIN_0,exti0_irq};
@@ -141,7 +141,7 @@ typedef struct
 #define EXTI15D15  (exti_gpio_mapping){exti15,GPIOD,GPIO_PIN_15,exti15_irq};
 
 
-/////////////@ ref this parameter must be set on @ref exti_define
+/////////////@ref exti_trigger_define
 
 #define trigger_rising 				0
 #define trigger_falling 			1
