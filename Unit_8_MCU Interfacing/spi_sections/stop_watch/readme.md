@@ -1,8 +1,8 @@
 #  stop watch project:
 # you can write any time on it by uart(virtual terminal)  as you can see ::>>>> hh mm ss
-# hh>>> hours
-# mm >> minutes
-# ss >> seconds
+ hh>>> hours
+ mm >> minutes
+ ss >> seconds
 
 
 
