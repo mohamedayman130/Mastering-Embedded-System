@@ -1,1 +1,1 @@
-# master slave spi with atmega32(mcu).
+# master_slave spi with atmega32(mcu).
