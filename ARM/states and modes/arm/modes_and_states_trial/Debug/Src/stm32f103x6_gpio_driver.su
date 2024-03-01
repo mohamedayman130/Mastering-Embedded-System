@@ -1,9 +1,0 @@
-stm32f103x6_gpio_driver.c:8:7:get_pos	16	static
-stm32f103x6_gpio_driver.c:34:7:get_pos_odr	16	static
-stm32f103x6_gpio_driver.c:64:6:mcal_gpio_init	32	static
-stm32f103x6_gpio_driver.c:118:6:mcal_gpio_deinit	16	static
-stm32f103x6_gpio_driver.c:135:6:mcal_gpio_read_pin	24	static
-stm32f103x6_gpio_driver.c:153:7:mcal_gpio_read_port	24	static
-stm32f103x6_gpio_driver.c:161:6:mcal_gpio_write_pin	16	static
-stm32f103x6_gpio_driver.c:168:6:mcal_gpio_write_port	16	static
-stm32f103x6_gpio_driver.c:174:6:mcal_gpio_toggle_pin	16	static
