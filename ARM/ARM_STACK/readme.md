@@ -1,6 +1,4 @@
-# The system ticker is represented by exti, and this code simulates how to run several jobs quickly, much like an operating system.
-at first system will run in main_os stack then interrupt will happen and take it to psp(process stack pointer) and excute task a then interrupt will happen again then will go to task b and so on.
-
+# The system ticker is represented by exti, and this code simulates how to run several jobs quickly, much like an operating system. at first system will run in main_os stack then interrupt will happen and take it to psp(process stack pointer) and excute task a then interrupt will happen again then will go to task b and so on.
 
 ## First, set the processor to run in non-privilege mode and set the PSP reg to equal the task address.
 
