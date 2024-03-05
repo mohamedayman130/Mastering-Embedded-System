@@ -1,0 +1,4 @@
+rcc.c:12:10:mcal_rcc_get_sysclk1	4	static
+rcc.c:18:10:mcal_rcc_get_hclk1	8	static
+rcc.c:22:10:mcal_rcc_get_pclk1	8	static
+rcc.c:26:10:mcal_rcc_get_pclk2	8	static
